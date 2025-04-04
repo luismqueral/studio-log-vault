@@ -1,0 +1,23 @@
+# Obsidian
+.obsidian/
+.trash/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Node
+node_modules/
+.npm
+.env
+.env.local
+
+# Build output
+dist/
+public/
+
+# Misc
+*.log
+.vscode/
